@@ -1,0 +1,9 @@
+.Populartitel{
+    text-align: center;
+}
+.card{
+    border-radius: 4px;
+    background: #FFF;
+    cursor: pointer;
+    text-align: center;
+}
